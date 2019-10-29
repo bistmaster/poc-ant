@@ -20,3 +20,10 @@
 .App-link {
   color: #09d3ac;
 }
+
+.rowEven {
+  background-color:#eff3f3;
+}
+.rowOdd {
+  background-color: white;
+}
